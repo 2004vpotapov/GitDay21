@@ -5,4 +5,6 @@ public class Toyota {
 
 
     // Color is Red
+
+    // Price 25 000 doll
 }
